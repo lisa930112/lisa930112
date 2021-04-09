@@ -1,15 +1,13 @@
 # README
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rukiren&layout=compact&theme=vue-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rukiren&layout=compact&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rukiren&layout=compact&theme=vue-dark)  
 
-白兔  
+##興趣
+刷抖音，微博
 
-不要問我兔子怎麼叫   
-
-## 目標
-- 降低南北資訊領域學習資源不均
-- 試圖在高中畢業前在路竹高中傳承資訊領域的學習
+## 短期目標
+-考取
 
 ## 掌握技能
 - 基礎外傷包紮處理
